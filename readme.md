@@ -2,7 +2,7 @@
 
 A very very simple yet functional web service for fitness related functions.
 
-Contains both **ASMX** and WCF** web services.
+Contains both **ASMX** and **WCF** web services.
 
 ## Methods
 - **CalculateBMI()** - Calculate BMI based on height(cm) and weigh(kg)
@@ -20,7 +20,7 @@ Contains both **ASMX** and WCF** web services.
 - **CalculateHeartRateForExerciseIntensity()** - Estimate user's heart rate based on exercise intensity percentage(eg. 70 for running), max heart rate and resting heart rate.
 - **GetRestingHeartRatesXML()** - Retrieve a DataSet containing user's age range and their relevant resting heart rate range.
 
-*mets - Metabolic Equivalent of exercises
+***mets** - Metabolic Equivalent of exercises
 
 
 ## Prerequisites
