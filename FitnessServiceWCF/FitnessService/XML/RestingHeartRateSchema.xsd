@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RestingHeartRateSchema"
+    targetNamespace="http://tempuri.org/RestingHeartRateSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/RestingHeartRateSchema.xsd"
+    xmlns:mstns="http://tempuri.org/RestingHeartRateSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="restingHeartRate">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="restingHeartRateObject" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ageRange" type="xs:string"/>
+              <xs:element name="restingHeartRates" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

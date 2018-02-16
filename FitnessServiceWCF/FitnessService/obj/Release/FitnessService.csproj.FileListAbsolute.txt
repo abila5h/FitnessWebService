@@ -1,0 +1,10 @@
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Release\XML\EventDistances.xml
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Release\XML\ExerciseMETS.xml
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Release\XML\RestingHeartRates.xml
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Release\FitnessService.dll.config
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Release\FitnessService.dll
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Release\FitnessService.pdb
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\obj\Release\FitnessService.csproj.CoreCompileInputs.cache
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\obj\Release\XsdGeneratedCode\GeneratedXsdTypes.cs
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\obj\Release\FitnessService.dll
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\obj\Release\FitnessService.pdb

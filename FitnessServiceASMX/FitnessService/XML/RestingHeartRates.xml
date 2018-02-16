@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<restingHeartRate xmlns="http://tempuri.org/RestingHeartRateSchema.xsd">
+  <restingHeartRateObject>
+    <ageRange>Up to 11 months</ageRange>
+    <restingHeartRates>70 to 190</restingHeartRates>
+  </restingHeartRateObject>
+  <restingHeartRateObject>
+    <ageRange>From 1 to 11 months</ageRange>
+    <restingHeartRates>80 to 160</restingHeartRates>
+  </restingHeartRateObject>
+  <restingHeartRateObject>
+    <ageRange>From 1 to 2 years</ageRange>
+    <restingHeartRates>80 to 130</restingHeartRates>
+  </restingHeartRateObject>
+  <restingHeartRateObject>
+    <ageRange>From 3 to 4 years</ageRange>
+    <restingHeartRates>80 to 120</restingHeartRates>
+  </restingHeartRateObject>
+  <restingHeartRateObject>
+    <ageRange>From 5 to 6 years</ageRange>
+    <restingHeartRates>75 to 115</restingHeartRates>
+  </restingHeartRateObject>
+  <restingHeartRateObject>
+    <ageRange>From 7 to 9 years</ageRange>
+    <restingHeartRates>70 to 190</restingHeartRates>
+  </restingHeartRateObject>
+  <restingHeartRateObject>
+    <ageRange>Over 10 years</ageRange>
+    <restingHeartRates>60 to 100</restingHeartRates>
+  </restingHeartRateObject>
+</restingHeartRate>

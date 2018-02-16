@@ -1,0 +1,11 @@
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Debug\FitnessService.dll.config
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Debug\FitnessService.dll
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Debug\FitnessService.pdb
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\obj\Debug\FitnessService.csproj.CoreCompileInputs.cache
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\obj\Debug\FitnessService.dll
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\obj\Debug\FitnessService.pdb
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Debug\XML\EventDistances.xml
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Debug\XML\ExerciseMETS.xml
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\bin\Debug\XML\RestingHeartRates.xml
+C:\Users\men0n\Desktop\School\FitnessService\FitnessService\obj\Debug\FitnessService.csprojResolveAssemblyReference.cache

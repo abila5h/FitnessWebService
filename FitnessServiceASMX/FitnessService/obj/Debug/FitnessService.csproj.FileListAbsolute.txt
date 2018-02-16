@@ -1,0 +1,9 @@
+C:\Users\men0n\Desktop\FitnessService\FitnessService\bin\FitnessService.dll.config
+C:\Users\men0n\Desktop\FitnessService\FitnessService\bin\FitnessService.dll
+C:\Users\men0n\Desktop\FitnessService\FitnessService\bin\FitnessService.pdb
+C:\Users\men0n\Desktop\FitnessService\FitnessService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\men0n\Desktop\FitnessService\FitnessService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\men0n\Desktop\FitnessService\FitnessService\obj\Debug\FitnessService.csprojResolveAssemblyReference.cache
+C:\Users\men0n\Desktop\FitnessService\FitnessService\obj\Debug\FitnessService.csproj.CoreCompileInputs.cache
+C:\Users\men0n\Desktop\FitnessService\FitnessService\obj\Debug\FitnessService.dll
+C:\Users\men0n\Desktop\FitnessService\FitnessService\obj\Debug\FitnessService.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ExerciseMETS"
+    targetNamespace="http://tempuri.org/ExerciseMETS.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/ExerciseMETS.xsd"
+    xmlns:mstns="http://tempuri.org/ExerciseMETS.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="exercise">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name ="exerciseObject" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name ="exerciseName" type="xs:string"/>
+              <xs:element name ="exerciseMETS" type="xs:double"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
